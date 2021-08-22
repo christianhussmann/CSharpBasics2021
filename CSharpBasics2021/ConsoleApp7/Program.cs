@@ -5,8 +5,13 @@ namespace ConsoleApp7
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        {   
+            //Create
+            //Read
+            //Update
+            //Delete
+            var printer = new Printer();
+            Console.ReadLine();
         }
     }
 }
